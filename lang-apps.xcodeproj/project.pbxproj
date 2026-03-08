@@ -1,0 +1,1206 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		672CDB122F5C49EE0057E983 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB0C2F5C49EE0057E983 /* GoogleMobileAds */; };
+		672CDB132F5C49EE0057E983 /* UICircularProgressRing in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB0A2F5C49EE0057E983 /* UICircularProgressRing */; };
+		672CDB142F5C49EE0057E983 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB0E2F5C49EE0057E983 /* RevenueCat */; };
+		672CDB7B2F5C4DB00057E983 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB752F5C4DB00057E983 /* GoogleMobileAds */; };
+		672CDB7C2F5C4DB00057E983 /* UICircularProgressRing in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB732F5C4DB00057E983 /* UICircularProgressRing */; };
+		672CDB7D2F5C4DB00057E983 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDB772F5C4DB00057E983 /* RevenueCat */; };
+		672CDC1D2F5C4FC50057E983 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC172F5C4FC50057E983 /* GoogleMobileAds */; };
+		672CDC1E2F5C4FC50057E983 /* UICircularProgressRing in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC152F5C4FC50057E983 /* UICircularProgressRing */; };
+		672CDC1F2F5C4FC50057E983 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC192F5C4FC50057E983 /* RevenueCat */; };
+		672CDC882F5C507F0057E983 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC822F5C507F0057E983 /* GoogleMobileAds */; };
+		672CDC892F5C507F0057E983 /* UICircularProgressRing in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC802F5C507F0057E983 /* UICircularProgressRing */; };
+		672CDC8A2F5C507F0057E983 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 672CDC842F5C507F0057E983 /* RevenueCat */; };
+		67CFFC6D2F45BBEB00D323B6 /* UICircularProgressRing in Frameworks */ = {isa = PBXBuildFile; productRef = 67CFFC6C2F45BBEB00D323B6 /* UICircularProgressRing */; };
+		67CFFE532F49C88300D323B6 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 67CFFE522F49C88300D323B6 /* GoogleMobileAds */; };
+		67CFFED62F49E51700D323B6 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 67CFFED52F49E51700D323B6 /* RevenueCat */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		672CDB192F5C49EE0057E983 /* cantonese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cantonese.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		672CDB822F5C4DB00057E983 /* swahili.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swahili.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		672CDC242F5C4FC50057E983 /* haitian.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = haitian.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		672CDC8F2F5C507F0057E983 /* khmer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = khmer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6794579F2F3B9F80007DC1F5 /* lang-apps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lang-apps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		672CDB1A2F5C49EE0057E983 /* Exceptions for "lang-apps" folder in "cantonese" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
+				Targets/Haitian/haitianAssets.xcassets,
+				Targets/Haitian/stations.json,
+				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
+				Targets/Khmer/khmerAssets.xcassets,
+				Targets/Khmer/stations.json,
+				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
+				Targets/Swahili/stations.json,
+				Targets/Swahili/swahiliAssets.xcassets,
+				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
+			);
+			target = 672CDB092F5C49EE0057E983 /* cantonese */;
+		};
+		672CDB832F5C4DB00057E983 /* Exceptions for "lang-apps" folder in "swahili" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				Targets/Cantonese/cantoneseAssets.xcassets,
+				Targets/Cantonese/stations.json,
+				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
+				Targets/Haitian/haitianAssets.xcassets,
+				Targets/Haitian/stations.json,
+				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
+				Targets/Khmer/khmerAssets.xcassets,
+				Targets/Khmer/stations.json,
+				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
+				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
+			);
+			target = 672CDB722F5C4DB00057E983 /* swahili */;
+		};
+		672CDC252F5C4FC50057E983 /* Exceptions for "lang-apps" folder in "haitian" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				Targets/Cantonese/cantoneseAssets.xcassets,
+				Targets/Cantonese/stations.json,
+				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
+				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
+				Targets/Khmer/khmerAssets.xcassets,
+				Targets/Khmer/stations.json,
+				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
+				Targets/Swahili/stations.json,
+				Targets/Swahili/swahiliAssets.xcassets,
+				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
+			);
+			target = 672CDC142F5C4FC50057E983 /* haitian */;
+		};
+		672CDC902F5C507F0057E983 /* Exceptions for "lang-apps" folder in "khmer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				Targets/Cantonese/cantoneseAssets.xcassets,
+				Targets/Cantonese/stations.json,
+				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
+				Targets/Haitian/haitianAssets.xcassets,
+				Targets/Haitian/stations.json,
+				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
+				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
+				Targets/Swahili/stations.json,
+				Targets/Swahili/swahiliAssets.xcassets,
+				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
+			);
+			target = 672CDC7F2F5C507F0057E983 /* khmer */;
+		};
+		679457B12F3B9F81007DC1F5 /* Exceptions for "lang-apps" folder in "lang-apps" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				Targets/Cantonese/cantoneseAssets.xcassets,
+				Targets/Cantonese/stations.json,
+				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
+				Targets/Haitian/haitianAssets.xcassets,
+				Targets/Haitian/stations.json,
+				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
+				Targets/Khmer/khmerAssets.xcassets,
+				Targets/Khmer/stations.json,
+				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
+				Targets/Swahili/stations.json,
+				Targets/Swahili/swahiliAssets.xcassets,
+				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
+			);
+			target = 6794579E2F3B9F80007DC1F5 /* lang-apps */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		679457A12F3B9F80007DC1F5 /* lang-apps */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				679457B12F3B9F81007DC1F5 /* Exceptions for "lang-apps" folder in "lang-apps" target */,
+				672CDB1A2F5C49EE0057E983 /* Exceptions for "lang-apps" folder in "cantonese" target */,
+				672CDB832F5C4DB00057E983 /* Exceptions for "lang-apps" folder in "swahili" target */,
+				672CDC252F5C4FC50057E983 /* Exceptions for "lang-apps" folder in "haitian" target */,
+				672CDC902F5C507F0057E983 /* Exceptions for "lang-apps" folder in "khmer" target */,
+			);
+			path = "lang-apps";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		672CDB112F5C49EE0057E983 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672CDB122F5C49EE0057E983 /* GoogleMobileAds in Frameworks */,
+				672CDB132F5C49EE0057E983 /* UICircularProgressRing in Frameworks */,
+				672CDB142F5C49EE0057E983 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDB7A2F5C4DB00057E983 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672CDB7B2F5C4DB00057E983 /* GoogleMobileAds in Frameworks */,
+				672CDB7C2F5C4DB00057E983 /* UICircularProgressRing in Frameworks */,
+				672CDB7D2F5C4DB00057E983 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC1C2F5C4FC50057E983 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672CDC1D2F5C4FC50057E983 /* GoogleMobileAds in Frameworks */,
+				672CDC1E2F5C4FC50057E983 /* UICircularProgressRing in Frameworks */,
+				672CDC1F2F5C4FC50057E983 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC872F5C507F0057E983 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				672CDC882F5C507F0057E983 /* GoogleMobileAds in Frameworks */,
+				672CDC892F5C507F0057E983 /* UICircularProgressRing in Frameworks */,
+				672CDC8A2F5C507F0057E983 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6794579C2F3B9F80007DC1F5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				67CFFE532F49C88300D323B6 /* GoogleMobileAds in Frameworks */,
+				67CFFC6D2F45BBEB00D323B6 /* UICircularProgressRing in Frameworks */,
+				67CFFED62F49E51700D323B6 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		679457962F3B9F80007DC1F5 = {
+			isa = PBXGroup;
+			children = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+				67CFFE4F2F49C88000D323B6 /* Frameworks */,
+				679457A02F3B9F80007DC1F5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		679457A02F3B9F80007DC1F5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6794579F2F3B9F80007DC1F5 /* lang-apps.app */,
+				672CDB192F5C49EE0057E983 /* cantonese.app */,
+				672CDB822F5C4DB00057E983 /* swahili.app */,
+				672CDC242F5C4FC50057E983 /* haitian.app */,
+				672CDC8F2F5C507F0057E983 /* khmer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		67CFFE4F2F49C88000D323B6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		672CDB092F5C49EE0057E983 /* cantonese */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 672CDB162F5C49EE0057E983 /* Build configuration list for PBXNativeTarget "cantonese" */;
+			buildPhases = (
+				672CDB102F5C49EE0057E983 /* Sources */,
+				672CDB112F5C49EE0057E983 /* Frameworks */,
+				672CDB152F5C49EE0057E983 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+			);
+			name = cantonese;
+			packageProductDependencies = (
+				672CDB0A2F5C49EE0057E983 /* UICircularProgressRing */,
+				672CDB0C2F5C49EE0057E983 /* GoogleMobileAds */,
+				672CDB0E2F5C49EE0057E983 /* RevenueCat */,
+			);
+			productName = "lang-apps";
+			productReference = 672CDB192F5C49EE0057E983 /* cantonese.app */;
+			productType = "com.apple.product-type.application";
+		};
+		672CDB722F5C4DB00057E983 /* swahili */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 672CDB7F2F5C4DB00057E983 /* Build configuration list for PBXNativeTarget "swahili" */;
+			buildPhases = (
+				672CDB792F5C4DB00057E983 /* Sources */,
+				672CDB7A2F5C4DB00057E983 /* Frameworks */,
+				672CDB7E2F5C4DB00057E983 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+			);
+			name = swahili;
+			packageProductDependencies = (
+				672CDB732F5C4DB00057E983 /* UICircularProgressRing */,
+				672CDB752F5C4DB00057E983 /* GoogleMobileAds */,
+				672CDB772F5C4DB00057E983 /* RevenueCat */,
+			);
+			productName = "lang-apps";
+			productReference = 672CDB822F5C4DB00057E983 /* swahili.app */;
+			productType = "com.apple.product-type.application";
+		};
+		672CDC142F5C4FC50057E983 /* haitian */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 672CDC212F5C4FC50057E983 /* Build configuration list for PBXNativeTarget "haitian" */;
+			buildPhases = (
+				672CDC1B2F5C4FC50057E983 /* Sources */,
+				672CDC1C2F5C4FC50057E983 /* Frameworks */,
+				672CDC202F5C4FC50057E983 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+			);
+			name = haitian;
+			packageProductDependencies = (
+				672CDC152F5C4FC50057E983 /* UICircularProgressRing */,
+				672CDC172F5C4FC50057E983 /* GoogleMobileAds */,
+				672CDC192F5C4FC50057E983 /* RevenueCat */,
+			);
+			productName = "lang-apps";
+			productReference = 672CDC242F5C4FC50057E983 /* haitian.app */;
+			productType = "com.apple.product-type.application";
+		};
+		672CDC7F2F5C507F0057E983 /* khmer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 672CDC8C2F5C507F0057E983 /* Build configuration list for PBXNativeTarget "khmer" */;
+			buildPhases = (
+				672CDC862F5C507F0057E983 /* Sources */,
+				672CDC872F5C507F0057E983 /* Frameworks */,
+				672CDC8B2F5C507F0057E983 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+			);
+			name = khmer;
+			packageProductDependencies = (
+				672CDC802F5C507F0057E983 /* UICircularProgressRing */,
+				672CDC822F5C507F0057E983 /* GoogleMobileAds */,
+				672CDC842F5C507F0057E983 /* RevenueCat */,
+			);
+			productName = "lang-apps";
+			productReference = 672CDC8F2F5C507F0057E983 /* khmer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6794579E2F3B9F80007DC1F5 /* lang-apps */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 679457B22F3B9F81007DC1F5 /* Build configuration list for PBXNativeTarget "lang-apps" */;
+			buildPhases = (
+				6794579B2F3B9F80007DC1F5 /* Sources */,
+				6794579C2F3B9F80007DC1F5 /* Frameworks */,
+				6794579D2F3B9F80007DC1F5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				679457A12F3B9F80007DC1F5 /* lang-apps */,
+			);
+			name = "lang-apps";
+			packageProductDependencies = (
+				67CFFC6C2F45BBEB00D323B6 /* UICircularProgressRing */,
+				67CFFE522F49C88300D323B6 /* GoogleMobileAds */,
+				67CFFED52F49E51700D323B6 /* RevenueCat */,
+			);
+			productName = "lang-apps";
+			productReference = 6794579F2F3B9F80007DC1F5 /* lang-apps.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		679457972F3B9F80007DC1F5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					6794579E2F3B9F80007DC1F5 = {
+						CreatedOnToolsVersion = 26.0;
+					};
+				};
+			};
+			buildConfigurationList = 6794579A2F3B9F80007DC1F5 /* Build configuration list for PBXProject "lang-apps" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 679457962F3B9F80007DC1F5;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				67CFFC6B2F45BBEB00D323B6 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */,
+				67CFFE4C2F49C87600D323B6 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+				67CFFED02F49E50700D323B6 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 679457A02F3B9F80007DC1F5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6794579E2F3B9F80007DC1F5 /* lang-apps */,
+				672CDB092F5C49EE0057E983 /* cantonese */,
+				672CDB722F5C4DB00057E983 /* swahili */,
+				672CDC142F5C4FC50057E983 /* haitian */,
+				672CDC7F2F5C507F0057E983 /* khmer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		672CDB152F5C49EE0057E983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDB7E2F5C4DB00057E983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC202F5C4FC50057E983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC8B2F5C507F0057E983 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6794579D2F3B9F80007DC1F5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		672CDB102F5C49EE0057E983 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDB792F5C4DB00057E983 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC1B2F5C4FC50057E983 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		672CDC862F5C507F0057E983 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6794579B2F3B9F80007DC1F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		672CDB172F5C49EE0057E983 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Cantonese/cantonese.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Cantonese";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DYUE";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.cantonese;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		672CDB182F5C49EE0057E983 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Cantonese/cantonese.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Cantonese";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DYUE";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.cantonese;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		672CDB802F5C4DB00057E983 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swaili.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Swahili";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DSW";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.swahili;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		672CDB812F5C4DB00057E983 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swaili.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Swahili";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DSW";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.swahili;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		672CDC222F5C4FC50057E983 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Haitian/haitian.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Haitians";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DHT";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.haitian;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		672CDC232F5C4FC50057E983 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Haitian/haitian.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Haitians";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DHT";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.haitian;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		672CDC8D2F5C507F0057E983 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Khmer/khmer.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Amharic";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DKM";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.amharic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		672CDC8E2F5C507F0057E983 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Targets/Khmer/khmer.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Amharic";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0.0;
+				OTHER_SWIFT_FLAGS = "-DKM";
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.amharic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		679457B32F3B9F81007DC1F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lentil.lang-apps";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		679457B42F3B9F81007DC1F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "lang-apps/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lentil.lang-apps";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		679457B52F3B9F81007DC1F5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = QP7342XB9T;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		679457B62F3B9F81007DC1F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = QP7342XB9T;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		672CDB162F5C49EE0057E983 /* Build configuration list for PBXNativeTarget "cantonese" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672CDB172F5C49EE0057E983 /* Debug */,
+				672CDB182F5C49EE0057E983 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		672CDB7F2F5C4DB00057E983 /* Build configuration list for PBXNativeTarget "swahili" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672CDB802F5C4DB00057E983 /* Debug */,
+				672CDB812F5C4DB00057E983 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		672CDC212F5C4FC50057E983 /* Build configuration list for PBXNativeTarget "haitian" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672CDC222F5C4FC50057E983 /* Debug */,
+				672CDC232F5C4FC50057E983 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		672CDC8C2F5C507F0057E983 /* Build configuration list for PBXNativeTarget "khmer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				672CDC8D2F5C507F0057E983 /* Debug */,
+				672CDC8E2F5C507F0057E983 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6794579A2F3B9F80007DC1F5 /* Build configuration list for PBXProject "lang-apps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				679457B52F3B9F81007DC1F5 /* Debug */,
+				679457B62F3B9F81007DC1F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		679457B22F3B9F81007DC1F5 /* Build configuration list for PBXNativeTarget "lang-apps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				679457B32F3B9F81007DC1F5 /* Debug */,
+				679457B42F3B9F81007DC1F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		672CDB0B2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/o16i/UICircularProgressRing.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		672CDB0D2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+		672CDB0F2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.59.2;
+			};
+		};
+		672CDB742F5C4DB00057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/o16i/UICircularProgressRing.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		672CDB762F5C4DB00057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+		672CDB782F5C4DB00057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.59.2;
+			};
+		};
+		672CDC162F5C4FC50057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/o16i/UICircularProgressRing.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		672CDC182F5C4FC50057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+		672CDC1A2F5C4FC50057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.59.2;
+			};
+		};
+		672CDC812F5C507F0057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/o16i/UICircularProgressRing.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		672CDC832F5C507F0057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+		672CDC852F5C507F0057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.59.2;
+			};
+		};
+		67CFFC6B2F45BBEB00D323B6 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/o16i/UICircularProgressRing.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		67CFFE4C2F49C87600D323B6 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 13.0.0;
+			};
+		};
+		67CFFED02F49E50700D323B6 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.59.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		672CDB0A2F5C49EE0057E983 /* UICircularProgressRing */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB0B2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */;
+			productName = UICircularProgressRing;
+		};
+		672CDB0C2F5C49EE0057E983 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB0D2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		672CDB0E2F5C49EE0057E983 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB0F2F5C49EE0057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		672CDB732F5C4DB00057E983 /* UICircularProgressRing */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB742F5C4DB00057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */;
+			productName = UICircularProgressRing;
+		};
+		672CDB752F5C4DB00057E983 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB762F5C4DB00057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		672CDB772F5C4DB00057E983 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDB782F5C4DB00057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		672CDC152F5C4FC50057E983 /* UICircularProgressRing */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC162F5C4FC50057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */;
+			productName = UICircularProgressRing;
+		};
+		672CDC172F5C4FC50057E983 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC182F5C4FC50057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		672CDC192F5C4FC50057E983 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC1A2F5C4FC50057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		672CDC802F5C507F0057E983 /* UICircularProgressRing */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC812F5C507F0057E983 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */;
+			productName = UICircularProgressRing;
+		};
+		672CDC822F5C507F0057E983 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC832F5C507F0057E983 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		672CDC842F5C507F0057E983 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 672CDC852F5C507F0057E983 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		67CFFC6C2F45BBEB00D323B6 /* UICircularProgressRing */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 67CFFC6B2F45BBEB00D323B6 /* XCRemoteSwiftPackageReference "UICircularProgressRing" */;
+			productName = UICircularProgressRing;
+		};
+		67CFFE522F49C88300D323B6 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 67CFFE4C2F49C87600D323B6 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+		67CFFED52F49E51700D323B6 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 67CFFED02F49E50700D323B6 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 679457972F3B9F80007DC1F5 /* Project object */;
+}
