@@ -548,7 +548,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swaili.plist";
+				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swahili.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Learn Swahili";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -584,7 +584,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swaili.plist";
+				INFOPLIST_FILE = "lang-apps/Targets/Swahili/swahili.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Learn Swahili";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
