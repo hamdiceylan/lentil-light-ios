@@ -19,6 +19,7 @@ class UserManager: NSObject {
         didSet {
             UserDefaults.standard.set(premium, forKey: UserManager.kUserPremiumKey)
             UserDefaults.standard.synchronize()
+            NotificationCenter.default.post(name: .didPremiumStatusChanged, object: nil)
         }
     }
     
@@ -26,10 +27,18 @@ class UserManager: NSObject {
         Purchases.shared.getCustomerInfo { customerInfo, error in
             if let error = error {
                 print("RC getCustomerInfo error: \(error.localizedDescription)")
+                DispatchQueue.main.async {
+                    self.premium = false
+                }
                 return
             }
             
-            guard let info = customerInfo else { return }
+            guard let info = customerInfo else {
+                DispatchQueue.main.async {
+                    self.premium = false
+                }
+                return
+            }
             
             // Entitlement Check
             let premiumActive = info.entitlements["Premium"]?.isActive == true
@@ -40,4 +49,8 @@ class UserManager: NSObject {
         }
     }
     
+}
+
+extension Notification.Name {
+    static let didPremiumStatusChanged = Notification.Name("DidPremiumStatusChanged")
 }

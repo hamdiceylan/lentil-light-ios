@@ -9,8 +9,6 @@ import UIKit
 
 final class FlashcardListViewController: UIViewController {
 
-    private let freeSectionLimit = 3
-
     private var baseSections: [FCSection] = []
     private var sections: [FCSection] = []
 
@@ -185,7 +183,9 @@ extension FlashcardListViewController: UITableViewDataSource, UITableViewDelegat
     }
 
     private func isSectionLocked(at index: Int) -> Bool {
-        !UserManager.shared.premium && index >= freeSectionLimit
+        guard !UserManager.shared.premium else { return false }
+        guard sections.indices.contains(index) else { return false }
+        return sections[index].type != .Favorites
     }
 
     private func presentPaywall() {

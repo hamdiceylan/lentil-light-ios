@@ -96,7 +96,7 @@ final class SectionCell: UITableViewCell {
         ))
         label?.attributedText = text
 
-        indexView.configure(content: .number(section.sectionIndex), isPremiumLocked: false)
+        indexView.configure(content: .number(section.sectionIndex), isPremiumLocked: isPremiumLocked)
 
         if isPremiumLocked {
             progressRing?.isHidden = true

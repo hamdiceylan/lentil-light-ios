@@ -8,6 +8,7 @@
 import UIKit
 
 final class ViewController: UIViewController {
+    private let freeTopicLimit = 3
 
     private struct Topic {
         let station: LearningStation
@@ -64,6 +65,22 @@ final class ViewController: UIViewController {
         configureNavigationBar()
         setupLayout()
         loadTopics()
+        NotificationCenter.default.addObserver(
+            self,
+            selector: #selector(handlePremiumStateChanged),
+            name: .didPremiumStatusChanged,
+            object: nil
+        )
+    }
+
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        UserManager.shared.checkSubscriptionStatus()
+        collectionView.reloadData()
+    }
+
+    deinit {
+        NotificationCenter.default.removeObserver(self)
     }
 
     private func configureUI() {
@@ -137,6 +154,23 @@ final class ViewController: UIViewController {
         let menuViewController = MenuViewController()
         present(menuViewController, animated: true)
     }
+
+    @objc
+    private func handlePremiumStateChanged() {
+        collectionView.reloadData()
+    }
+
+    private func isTopicLocked(at index: Int) -> Bool {
+        !UserManager.shared.premium && index >= freeTopicLimit
+    }
+
+    private func presentPaywall() {
+        guard !UserManager.shared.premium else { return }
+        let paywallViewController = PaywallViewController()
+        paywallViewController.isRoot = false
+        paywallViewController.modalPresentationStyle = .fullScreen
+        present(paywallViewController, animated: true)
+    }
 }
 
 extension ViewController: UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
@@ -153,7 +187,12 @@ extension ViewController: UICollectionViewDataSource, UICollectionViewDelegateFl
         }
 
         let topic = topics[indexPath.item]
-        cell.configure(title: topic.station.name, subtitle: topic.subtitle, subtitleColor: topic.subtitleColor)
+        cell.configure(
+            title: topic.station.name,
+            subtitle: topic.subtitle,
+            subtitleColor: topic.subtitleColor,
+            isLocked: isTopicLocked(at: indexPath.item)
+        )
         return cell
     }
 
@@ -168,6 +207,10 @@ extension ViewController: UICollectionViewDataSource, UICollectionViewDelegateFl
 
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         collectionView.deselectItem(at: indexPath, animated: true)
+        if isTopicLocked(at: indexPath.item) {
+            presentPaywall()
+            return
+        }
         navigationItem.backButtonDisplayMode = .minimal
 
         let topic = topics[indexPath.item]
@@ -197,6 +240,7 @@ private final class TopicCell: UICollectionViewCell {
     private let subtitleLabel = InsetLabel()
     private let labelsStackView = UIStackView()
     private let chevronView = UIImageView(image: UIImage(systemName: "chevron.right"))
+    private let lockView = UIImageView(image: UIImage(named: "lock-icon") ?? UIImage(systemName: "lock.fill"))
 
     override init(frame: CGRect) {
         super.init(frame: frame)
@@ -213,10 +257,12 @@ private final class TopicCell: UICollectionViewCell {
         cardView.layer.shadowPath = UIBezierPath(roundedRect: cardView.bounds, cornerRadius: 16).cgPath
     }
 
-    func configure(title: String, subtitle: String, subtitleColor: UIColor) {
+    func configure(title: String, subtitle: String, subtitleColor: UIColor, isLocked: Bool) {
         titleLabel.text = title
         subtitleLabel.text = subtitle
         subtitleLabel.textColor = subtitleColor
+        chevronView.isHidden = isLocked
+        lockView.isHidden = !isLocked
     }
 
     private func configureUI() {
@@ -248,10 +294,13 @@ private final class TopicCell: UICollectionViewCell {
         labelsStackView.alignment = .leading
 
         chevronView.tintColor = .appPrimaryText
+        lockView.tintColor = .appPrimaryText
+        lockView.contentMode = .scaleAspectFit
+        lockView.isHidden = true
     }
 
     private func setupLayout() {
-        [cardView, iconView, titleLabel, subtitleLabel, labelsStackView, chevronView].forEach {
+        [cardView, iconView, titleLabel, subtitleLabel, labelsStackView, chevronView, lockView].forEach {
             $0.translatesAutoresizingMaskIntoConstraints = false
         }
 
@@ -261,6 +310,7 @@ private final class TopicCell: UICollectionViewCell {
         labelsStackView.addArrangedSubview(subtitleLabel)
         cardView.addSubview(labelsStackView)
         cardView.addSubview(chevronView)
+        cardView.addSubview(lockView)
 
         NSLayoutConstraint.activate([
             cardView.topAnchor.constraint(equalTo: contentView.topAnchor),
@@ -280,7 +330,12 @@ private final class TopicCell: UICollectionViewCell {
             subtitleLabel.heightAnchor.constraint(equalToConstant: 24),
 
             chevronView.trailingAnchor.constraint(equalTo: cardView.trailingAnchor, constant: -18),
-            chevronView.centerYAnchor.constraint(equalTo: cardView.centerYAnchor)
+            chevronView.centerYAnchor.constraint(equalTo: cardView.centerYAnchor),
+
+            lockView.trailingAnchor.constraint(equalTo: cardView.trailingAnchor, constant: -18),
+            lockView.centerYAnchor.constraint(equalTo: cardView.centerYAnchor),
+            lockView.widthAnchor.constraint(equalToConstant: 20),
+            lockView.heightAnchor.constraint(equalToConstant: 20)
         ])
     }
 }

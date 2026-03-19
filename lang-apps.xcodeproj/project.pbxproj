@@ -37,16 +37,12 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
-				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
 				Targets/Haitian/haitianAssets.xcassets,
 				Targets/Haitian/stations.json,
-				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
 				Targets/Khmer/khmerAssets.xcassets,
 				Targets/Khmer/stations.json,
-				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
 				Targets/Swahili/stations.json,
 				Targets/Swahili/swahiliAssets.xcassets,
-				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
 			);
 			target = 672CDB092F5C49EE0057E983 /* cantonese */;
 		};
@@ -56,14 +52,10 @@
 				Info.plist,
 				Targets/Cantonese/cantoneseAssets.xcassets,
 				Targets/Cantonese/stations.json,
-				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
 				Targets/Haitian/haitianAssets.xcassets,
 				Targets/Haitian/stations.json,
-				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
 				Targets/Khmer/khmerAssets.xcassets,
 				Targets/Khmer/stations.json,
-				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
-				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
 			);
 			target = 672CDB722F5C4DB00057E983 /* swahili */;
 		};
@@ -73,14 +65,10 @@
 				Info.plist,
 				Targets/Cantonese/cantoneseAssets.xcassets,
 				Targets/Cantonese/stations.json,
-				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
-				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
 				Targets/Khmer/khmerAssets.xcassets,
 				Targets/Khmer/stations.json,
-				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
 				Targets/Swahili/stations.json,
 				Targets/Swahili/swahiliAssets.xcassets,
-				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
 			);
 			target = 672CDC142F5C4FC50057E983 /* haitian */;
 		};
@@ -90,14 +78,10 @@
 				Info.plist,
 				Targets/Cantonese/cantoneseAssets.xcassets,
 				Targets/Cantonese/stations.json,
-				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
 				Targets/Haitian/haitianAssets.xcassets,
 				Targets/Haitian/stations.json,
-				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
-				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
 				Targets/Swahili/stations.json,
 				Targets/Swahili/swahiliAssets.xcassets,
-				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
 			);
 			target = 672CDC7F2F5C507F0057E983 /* khmer */;
 		};
@@ -107,16 +91,12 @@
 				Info.plist,
 				Targets/Cantonese/cantoneseAssets.xcassets,
 				Targets/Cantonese/stations.json,
-				"Targets/Cantonese/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Cantonese/cantonese.plist",
 				Targets/Haitian/haitianAssets.xcassets,
 				Targets/Haitian/stations.json,
-				"Targets/Haitian/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Haitian/haitian.plist",
 				Targets/Khmer/khmerAssets.xcassets,
 				Targets/Khmer/stations.json,
-				"Targets/Khmer/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Khmer/khmer.plist",
 				Targets/Swahili/stations.json,
 				Targets/Swahili/swahiliAssets.xcassets,
-				"Targets/Swahili/Users/burak/Desktop/IOS/Webron/lentil-light/lang-apps/Targets/Swahili/swahili.plist",
 			);
 			target = 6794579E2F3B9F80007DC1F5 /* lang-apps */;
 		};
@@ -693,7 +673,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "lang-apps/Targets/Khmer/khmer.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Learn Amharic";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Khmer";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -707,7 +687,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_SWIFT_FLAGS = "-DKM";
-				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.amharic;
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.khmer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -729,7 +709,7 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "lang-apps/Targets/Khmer/khmer.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Learn Amharic";
+				INFOPLIST_KEY_CFBundleDisplayName = "Learn Khmer";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your data to deliver more relevant ads and keep the app free.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -743,7 +723,7 @@
 				);
 				MARKETING_VERSION = 3.0.0;
 				OTHER_SWIFT_FLAGS = "-DKM";
-				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.amharic;
+				PRODUCT_BUNDLE_IDENTIFIER = motion.studio.khmer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
