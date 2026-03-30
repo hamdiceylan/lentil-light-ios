@@ -1,0 +1,172 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=11i3djnl-FfauDSudKn2wI3RTiWZyuzcf",
+      "imageURL": "",
+      "desc": "Pronunciation",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QSqyH4GvxvqD1_V-USb1BZGJkkTAuS09",
+      "imageURL": "",
+      "desc": "Vocabulary on Greetings",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=12Er4q15K0Do81u2HOyBmKCDRYGtj-0Xe",
+      "imageURL": "",
+      "desc": "Typical Greetings",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1U7jXdUdlvW6keleAZlvd-GbbO-mgmjvE",
+      "imageURL": "",
+      "desc": "Benedictions",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1ggpi9PopmM4S5RRMOorbhMfqqpj-r1wr",
+      "imageURL": "",
+      "desc": "Expressions for Taking Leave",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1-6Zo7t4gkmKlJTOiw1xe4-ne1FEBbBPt",
+      "imageURL": "",
+      "desc": "Dialogue on Greetings",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1vs8bQsFezcofK5OvATsBUcsNxNIdXaIx",
+      "imageURL": "",
+      "desc": "Expressions",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1zqURbJTd2q0UgGeVKieneJLhnp6RsfHq",
+      "imageURL": "",
+      "desc": "Days of the Week, Months of the Year",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1yoLxKw8pHfcalE5zOvRUKI8gkWeLrThb",
+      "imageURL": "",
+      "desc": "Expressions of Time",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18R7M9YyJ95j1zLoY1yZH5Bo7z29LQiaM",
+      "imageURL": "",
+      "desc": "Numbers",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1lv07TVFbBOk_7245lISTeHyRgiL85Tva",
+      "imageURL": "",
+      "desc": "Numbers: 20-1,000,000",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1zf9EG96uhQiPJb58GlzCFk0F-AtnXTqo",
+      "imageURL": "",
+      "desc": "Money",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1SdZk3VvB-zkghaSpwvk8ZB8Da4DvNLlr",
+      "imageURL": "",
+      "desc": "Vocabulary",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Nz8cEOzSJHv8dY-aQc5NwQ7nVhfP12iE",
+      "imageURL": "",
+      "desc": "Measurements",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Jfcdpn39C2Co8LVq_X4abtQ_csp59IkQ",
+      "imageURL": "",
+      "desc": "Asking for Prices, Expressing Want",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1iZheh1bo9nkvH4mgr-DGxoSYRjhkyRlA",
+      "imageURL": "",
+      "desc": "Expressing Needs",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1tjByjVs96E_FwBSEJ01uLtDMtlq15F8H",
+      "imageURL": "",
+      "desc": "Dialogue on Bargaining",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1RnJsCsQSjUmAtVkmCKCFaiR70ABUolfR",
+      "imageURL": "",
+      "desc": "Weather, Useful Expressions",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1XgBhTHY1B4Wwwk2BB0G94A2fUKbYEz8Q",
+      "imageURL": "",
+      "desc": "The Verb \"to Be\"",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1kLWgDUwOuQDYNvNgGb-J_SmmOy3Fd_Zc",
+      "imageURL": "",
+      "desc": "The Verb \"to Have\"",
+      "longDesc": "Fast - Speak Moore Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1iCYgaUeiKPJdRXU2doLgC6D4oX9Jvsgl",
+      "imageURL": "",
+      "desc": "Past Tense",
+      "longDesc": "Fast - Speak Moore Language"
+    }
+  ]
+}

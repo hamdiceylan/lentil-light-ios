@@ -24,6 +24,10 @@ class UserManager: NSObject {
     }
     
     func checkSubscriptionStatus() {
+        guard !TargetManager.current.revCatApi.isEmpty else {
+            premium = false
+            return
+        }
         Purchases.shared.getCustomerInfo { customerInfo, error in
             if let error = error {
                 print("RC getCustomerInfo error: \(error.localizedDescription)")

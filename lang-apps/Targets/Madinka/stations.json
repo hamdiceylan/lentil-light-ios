@@ -1,0 +1,204 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%201%20-%20General%20Greetings.mp3",
+      "imageURL": "",
+      "desc": "General Greetings",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%202%20-%20Morning%20Greetings_.mp3",
+      "imageURL": "",
+      "desc": "Morning Greetings",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%203%20-%20Afternoon%20Greetings_.mp3",
+      "imageURL": "",
+      "desc": "Afternoon Greetings",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%204%20-%20Evening%20&%20Night%20Greetings_.mp3",
+      "imageURL": "",
+      "desc": "Evening & Night Greetings",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%205%20-%20Leave%20taking_.mp3",
+      "imageURL": "",
+      "desc": "Leave taking",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%206%20-%20Personal%20Information_.mp3",
+      "imageURL": "",
+      "desc": "Personal Information",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%207%20-%20Introducing%20Someone_.mp3",
+      "imageURL": "",
+      "desc": "Introducing Someone",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%208%20-%20Shopping_.mp3",
+      "imageURL": "",
+      "desc": "Shopping",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%209%20-%20Common%20Conversation_.mp3",
+      "imageURL": "",
+      "desc": "Common Conversation",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2010%20-%20Tenses%20&%20Verbs_.mp3",
+      "imageURL": "",
+      "desc": "Tenses & Verbs",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2011%20-%20Transportation_.mp3",
+      "imageURL": "",
+      "desc": "Transportation",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2012%20-%20Numbers_.mp3",
+      "imageURL": "",
+      "desc": "Numbers",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2013%20-%20Adjectives_.mp3",
+      "imageURL": "",
+      "desc": "Adjectives",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2014%20-%20Weather_.mp3",
+      "imageURL": "",
+      "desc": "Weather",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2015%20-%20Weather%20Words_.mp3",
+      "imageURL": "",
+      "desc": "Weather Words",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2016%20-%20Tailoring_.mp3",
+      "imageURL": "",
+      "desc": "Tailoring",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2017%20-%20Tailoring%20Vocabulary_.mp3",
+      "imageURL": "",
+      "desc": "Tailoring Vocabulary",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2018-%20General%20Complements%20_.mp3",
+      "imageURL": "",
+      "desc": "General Complements",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2019%20-%20Family%20&%20Friend%20Vocab_.mp3",
+      "imageURL": "",
+      "desc": "Family & Friend Vocab",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2020%20-%20Noticing%20if%20someone%20is%20sick_.mp3",
+      "imageURL": "",
+      "desc": "Noticing if someone is sick",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2021%20-%20Common%20Phraces_.mp3",
+      "imageURL": "",
+      "desc": "Common Phrases",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2022%20-%20Question%20Words%20&%20Responding%20Techniques_.mp3",
+      "imageURL": "",
+      "desc": "Question Words & Responding Techniques",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2023%20-%20Expressing%20Sympathy%20&%20Offering%20Prayers_.mp3",
+      "imageURL": "",
+      "desc": "Expressing Sympathy & Offering Prayers",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2024%20-%20Expressing%20Needs_.mp3",
+      "imageURL": "",
+      "desc": "Expressing Needs",
+      "longDesc": "Fast - Speak Mandika Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://lentil.webron.software/82/Mandinka%20Lesson%2025%20-%20Location%20_.mp3",
+      "imageURL": "",
+      "desc": "Location",
+      "longDesc": "Fast - Speak Mandika Language"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Introduction",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1p4aulvbbkXmPGdVt0ayiv_0E976SbRLR",
+      "imageURL": "",
+      "desc": "Introductions",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1eW_bXRzrjano2lu4UAtSSKyt9oNL4dwm",
+      "imageURL": "",
+      "desc": "Malagasy Alphabet",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1sIKn0j7Pz25MgZE1Q9bQ-NeRryyeuqHW",
+      "imageURL": "",
+      "desc": "Greetings",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Sb2vEux5_Vd3JYFa5FWLZP6AHNoVqznT",
+      "imageURL": "",
+      "desc": "Introductions",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1JAoRpp-u7E6yAMuJEiL1YxGM6I5V68Kt",
+      "imageURL": "",
+      "desc": "Family",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1xMy-rfk_jm2YrOiYK_fHlDarIbwhXdYw",
+      "imageURL": "",
+      "desc": "Basic Sentence Structures",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1gPIH_BtfIkz7t51ul73BThL0S1NAbIvW",
+      "imageURL": "",
+      "desc": "Basic Needs",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1sz6Xlnblznrm4udt2W8WF-r-XaPxcAvw",
+      "imageURL": "",
+      "desc": "Question Words",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=16OXqvw-b6qBTPjPZM31Tk55xvyQxM0yV",
+      "imageURL": "",
+      "desc": "Commands and Requests",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1LuoQsz7KviOUkldf9r9-whTPbGK-XWz6",
+      "imageURL": "",
+      "desc": "Numbers",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Wb-U3zpWZ4_SBbtfEezgrbC5pqQCEpVy",
+      "imageURL": "",
+      "desc": "Food",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1BAtwBZ-jAiJ6259gRrv-QHKAj3vFMWzo",
+      "imageURL": "",
+      "desc": "Days of the Week and Parts of the Day",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=11_rPiyYvhQndebzkL_wC5FFROZyllQFK",
+      "imageURL": "",
+      "desc": "Vocabulary",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1H1ROAtNXNY_NJzlkEKOfbzi-yn0j0ZwB",
+      "imageURL": "",
+      "desc": "Colors",
+      "longDesc": "Fast - Speak Malagasy Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1_yszy_6xpenx4u93wDWG6ep807vTv2vJ",
+      "imageURL": "",
+      "desc": "Furniture in the House",
+      "longDesc": "Fast - Speak Malagasy Language"
+    }
+  ]
+}

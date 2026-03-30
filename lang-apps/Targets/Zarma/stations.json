@@ -1,0 +1,172 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1nqxXVUA7FqpnikWFNUlFqJV07t7ob-ZL",
+      "imageURL": "",
+      "desc": "Pronunciation",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1zwX62cOQG__VqnGOCntSH-6bAWHNDKgU",
+      "imageURL": "",
+      "desc": "Greetings (vocabulary)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1eg3eQto7XPf5xG48W-43azNsz20KZdVE",
+      "imageURL": "",
+      "desc": "Greetings (typical)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1uOUO0KAXwoKwIvUAZVPkFvKc3ivJOVEe",
+      "imageURL": "",
+      "desc": "Greetings (short cuts)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1WCkRQshAufzRkwLonAlQNEUJxKxVMwZ6",
+      "imageURL": "",
+      "desc": "Expressions for taking leave",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1JSPLf4k2uqViWOGzcWYRy2jaj2PXm8tw",
+      "imageURL": "",
+      "desc": "Dialogue on greetings",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1tNMYTvYrQB4iwJaKytVqPhMwfFDsOVgC",
+      "imageURL": "",
+      "desc": "Expressions",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1buswQGXl6WKgeH2WSv-74jLkmmqrP9oe",
+      "imageURL": "",
+      "desc": "Days of the week",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=19gU9EO-JEQpTakwCr5We3gaytu9EvEdd",
+      "imageURL": "",
+      "desc": "Time (adverbs of time)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1FtZLGx6fcVxP2uef8ulMiKcR7JmGcWTS",
+      "imageURL": "",
+      "desc": "Numbers (1-20)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1lUOWrjA60YpmwNLT-yH2YyRfXbJ2VWAY",
+      "imageURL": "",
+      "desc": "Numbers (21 through one million)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1_X102IaVfJtM5iqqGbDnCrke5C1kmth2",
+      "imageURL": "",
+      "desc": "Money",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=16R_lLwVE47cY0eEd2RKeBhEAku5M8AS4",
+      "imageURL": "",
+      "desc": "Vocabulary (food items and market)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1xYGkILK4-OWwTcK_Sr9CK_1VyaMzCpYw",
+      "imageURL": "",
+      "desc": "Measurements",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1aQYkkFo6RNTXan4prnaLsSkfoUjiJSiY",
+      "imageURL": "",
+      "desc": "Asking for prices / Expressing want",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1oWfp4NPS6c0iohxjrgcDJVrwfOvUfktc",
+      "imageURL": "",
+      "desc": "Expressing needs",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1XLRE_8HQn18GHSqoqMr5oqRxoY7Sd1Z5",
+      "imageURL": "",
+      "desc": "Dialogue on bargaining",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://drive.google.com/uc?export=download&id=13ukMqamHeUEdFVldNny4DuvtOSruqP02",
+      "imageURL": "",
+      "desc": "Weather (useful expressions and seasons)",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1TofDa2FzBDHBqw-erpblzx8Cl_fpzxHH",
+      "imageURL": "",
+      "desc": "The Verb \"to be\"",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Wy8Gd48fOCKAqK4-tfZpLr1GSnczVB1U",
+      "imageURL": "",
+      "desc": "The Verb \"to have\"",
+      "longDesc": "Fast - Speak Zarma Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://drive.google.com/uc?export=download&id=19jozePy8m0pkjhPZpDCdVTPW1uv3j82X",
+      "imageURL": "",
+      "desc": "Past tense",
+      "longDesc": "Fast - Speak Zarma Language"
+    }
+  ]
+}

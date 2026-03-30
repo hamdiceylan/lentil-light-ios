@@ -1,0 +1,364 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20-%20Introduction,%20pIV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20-%20Nasalized%20Vowels,%20pIX.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20-%20The%20Consonants%20of%20Yoruba,%20pXI.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20-%20The%20Vowels%20of%20Pronunciation%20-%20Yoruba,%20pVII.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20b%20vs.%20gb%20-%20a.,%20pXIV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20b%20vs.%20gb%20-%20b.,%20pXIV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20b%20vs.%20gb%20-%20c.,%20pXIV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20b%20vs.%20gb%20-%20d.,%20pXV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20gb%20vs.%20p%20-%20a.,%20pXV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20gb%20vs.%20p%20-%20b.,%20pXV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20gb%20vs.%20p%20-%20c.,%20pXV.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20gb%20vs.%20p%20-%20d.,%20pXVI.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-%20Pronunciation%20Drill%20gb%20vs.%20p%20-%20e.,%20pXVI.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%201.%20Low%20Rise%20vs.%20Low%20Low,%20p1.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%202.%20High%20Fall%20vs.%20High%20High,%20p2.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%203.%20Low%20Rise%20vs.%20High%20Fall,%20p3.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%204.%20High%20High%20vs.%20Mid%20High,%20p5.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%205.%20High%20Mid%20vs.%20Mid%20Mid,%20p7.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%206.%20Mid%20Mid%20vs.%20Low%20Mid,%20p9.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%207.%20High%20High%20vs.%20High%20Mid,%20p11.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%208.%20Mid%20High%20vs.%20Mid%20Mid,%20p13.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%209.%20Mid%20Mid%20vs.%20Mid%20Low,%20p15.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2010.%20Low%20Mid%20vs.%20Low%20Low,%20p17.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2011.%20Mid%20High%20vs.%20Low%20Rise,%20p19.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2012.%20High%20Fall%20vs.%20Mid%20Low,%20p22.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2013.%20Mid%20Low%20vs.%20Low%20Low,%20p24.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2014.%20High%20Mid%20vs.%20High%20Fall,%20p26.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2015.%20Low%20Rise%20vs.%20Low%20Mid,%20p28.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2016.%20Mid%20High%20vs.%20Low%20Mid,%20p30.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2017.%20High%20Mid%20vs.%20Mid%20Low,%20p32.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2018.%20High%20High%20vs.%20Mid%20Mid,%20p34.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2019.%20Mid%20Mid%20vs.%20Low%20Low,%20p36.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2020.%20Review,%20p39.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2021.%20One%20mora%20vs.%20two,%20level%20pitch,%20p40.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "35",
+      "name": "Lesson 35",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2022.%20One%20mora%20vs.%20two,%20glides,%20p42.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "36",
+      "name": "Lesson 36",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2023.%20High%20Mid%20vs.%20High%20Second,%20p44.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "37",
+      "name": "Lesson 37",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2024.%20Rise%20vs.%20Fall%20in%20larger%20context,%20p46.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "38",
+      "name": "Lesson 38",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2025.%20High%20Rise%20High%20vs.%20High%20Mid%20High,%20p47.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "39",
+      "name": "Lesson 39",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2026.%20High%20Mid%20High%20vs.%20High%20Second%20High,%20p47.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "40",
+      "name": "Lesson 40",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2027.%20High%20High%20Fall%20vs.%20High%20X%20Low,%20p48.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "41",
+      "name": "Lesson 41",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2028.%20Low%20vs.%20Fall,%20p48.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "42",
+      "name": "Lesson 42",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2029.%20High%20Mid%20vs.%20High%20X,%20p48.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "43",
+      "name": "Lesson 43",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20I%20-%2030.%20Alternating%20Rises%20and%20Falls,%20p49.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "44",
+      "name": "Lesson 44",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20II%20-%201.%20Low-RISE%20LOW-Mid%20vs.%20Low-LOW%20LOW-Mid,%20p53.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    },
+    {
+      "id": "45",
+      "name": "Lesson 45",
+      "streamURL": "https://lentil.webron.software/101/Yoruba%20-Tone%20Drills%20Series%20II%20-%2010.%20High-FALL%20LOW-Mid%20vs.%20High-MID%20LOW-Mid,%20p57.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Yoruba Language"
+    }
+  ]
+}

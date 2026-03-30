@@ -1,0 +1,276 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1N-lVf7VaJlEL17nDMOFEJdh0uk9bGv22",
+      "imageURL": "",
+      "desc": "Pronunciation",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1m519z1ExfL0E_qpZ2p0s2Pp8lkB9KQQD",
+      "imageURL": "",
+      "desc": "Greetings 1",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Lq7xCypqGEDxjrUCzVvWNK3kcG_GXgtk",
+      "imageURL": "",
+      "desc": "Greetings 2",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1L9egGlgtXIydfiN02tjEerN82ZdFujds",
+      "imageURL": "",
+      "desc": "Greetings 3",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1sEiIpa-THG4lw34DROq83R0W4-pIluPP",
+      "imageURL": "",
+      "desc": "Expressions for taking leave",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1UR3_yWcFWo1gWsgoL7zBJDSrdsOpNKBr",
+      "imageURL": "",
+      "desc": "Dialogue on greetings",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1liJscZpF8Gubw7s_p34Gk1YfhdPAYscp",
+      "imageURL": "",
+      "desc": "Expressions",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1PKATLGPjOApdADWR7XCFAW8wl7mvMYlp",
+      "imageURL": "",
+      "desc": "Days of the week / Months of the year",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1n3pccn-PKcN6Ty-GN4NvYEBEffBPIh_3",
+      "imageURL": "",
+      "desc": "Time (adverbs of time)",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1K-l0taIrHI-vg0osEbrjoZE9jXEqeNlw",
+      "imageURL": "",
+      "desc": "Numbers (1-20)",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1XehiWTpF2PiGrSeu9DxQBdaEE3EIeJn6",
+      "imageURL": "",
+      "desc": "Numbers (21 through one million)",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1d0oBHmz18TWMA2Hq04CfA2CxBHK34KFs",
+      "imageURL": "",
+      "desc": "Money",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1w5-qQSPVlZPIPYKebC1br21rd9LEeJgF",
+      "imageURL": "",
+      "desc": "Vocabulary (food items)",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1KuU4cU1JcO0p4f0jSx_mVxE0WpesFOKd",
+      "imageURL": "",
+      "desc": "Measurements",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1noF8px1nDyH3pL3XHY8eTBP48RnU7gv3",
+      "imageURL": "",
+      "desc": "Asking for prices / Question words",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1XXDMGwZe-620V3ZZNhmnV0_yGBydceJ-",
+      "imageURL": "",
+      "desc": "Expressing needs",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18QuIKsDn_FUQbZhzWg_P_ui5YfaTckWQ",
+      "imageURL": "",
+      "desc": "Dialogue on bargaining",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1kp57bqQYtaNL1NjybFRk4xoAjuWuUQYk",
+      "imageURL": "",
+      "desc": "Weather (useful expressions and seasons)",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1PyJJs1KFqWghyNb1_wATjaSCGwcR0No-",
+      "imageURL": "",
+      "desc": "The Verb \"to be\" (in three parts); Part 1 - the \"ne/ce\" sandwich",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1pbVxECl7lFTbGpmPW6GLDdtDgZMFdyYP",
+      "imageURL": "",
+      "desc": "Part 2 - negation",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1My6A6KgIBMU7ipQnZgUidvtesL-xPAIN",
+      "imageURL": "",
+      "desc": "Part 3 - the -na form",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1HKlnP6zuc_lrx7w2xbnsW3Q3DzWWLzd2",
+      "imageURL": "",
+      "desc": "The future tense",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://drive.google.com/uc?export=download&id=16suj_cNOJMgqrUCAxhyFe8JSbsE31oV-",
+      "imageURL": "",
+      "desc": "The past tense",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1W-VvSruim7DDq633XsZCx4Q0ZYXzuImH",
+      "imageURL": "",
+      "desc": "Past tense negative",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QMEuUoEVNtz7gbq6Dpbs2GxLDNHXii9P",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1l1tslEnJDWh6RRIfDEdhShbmFmQtiecc",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1yyemwAaB_L1zvWLuiJdA4yzzD1utjAY9",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1AmOJBW2caCwZSPS-if6CYEbYQRiJ2RSK",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QA00cZTvy3qbQkWgv0kaeWqzkEeRDM_R",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://drive.google.com/uc?export=download&id=13sFU3ElnftUKtSeGjQJmVHkNtaisnpbp",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1minBw5hjL78EQPck8ORqQY4Uoj7uKroS",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://drive.google.com/uc?export=download&id=15xOLvh_clKaIQkQNe1ZHiIegc4ki6GjX",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1S5-JG9SH0bhCSACdKxi93ZqRPUXfa8QP",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1MoZPm_gnx-OcQmm50AQzz0AaOD1fugtI",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Hausa Language"
+    }
+  ]
+}

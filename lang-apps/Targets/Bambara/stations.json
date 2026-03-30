@@ -1,0 +1,108 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%201_.mp3",
+      "imageURL": "",
+      "desc": "The Alphabet",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%202_.mp3",
+      "imageURL": "",
+      "desc": "Vocabulary 1",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%203_.mp3",
+      "imageURL": "",
+      "desc": "Greetings",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%204_.mp3",
+      "imageURL": "",
+      "desc": "Numbers",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%205_.mp3",
+      "imageURL": "",
+      "desc": "Introducing Self/Someone",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%206_.mp3",
+      "imageURL": "",
+      "desc": "Taking Expressions",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%207_.mp3",
+      "imageURL": "",
+      "desc": "Dialogue",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%208_.mp3",
+      "imageURL": "",
+      "desc": "Vocabulary 2",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%209_.mp3",
+      "imageURL": "",
+      "desc": "Vocabulary 3",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%2010_.mp3",
+      "imageURL": "",
+      "desc": "Numbers",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%2011_.mp3",
+      "imageURL": "",
+      "desc": "Some Useful Expressions and Phrases",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%2012_.mp3",
+      "imageURL": "",
+      "desc": "Family",
+      "longDesc": "Fast - Speak Bambara Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://lentil.webron.software/58/Bambara-%20Lesson%2013_.mp3",
+      "imageURL": "",
+      "desc": "Days of the Week and Some Expressions of Time",
+      "longDesc": "Fast - Speak Bambara Language"
+    }
+  ]
+}

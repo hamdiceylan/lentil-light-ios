@@ -1,0 +1,780 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2001.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2002-03.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2004-05.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2006-08.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2009.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2010.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2011.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2012.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2013-14.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2015-16.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2017.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2018-19.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2021.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2022.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2023.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2024.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2025.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2026-27.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2028.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2029.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2030.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2031.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2032.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2033.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2034.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2035.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2036.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2037.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2038.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2039.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2040.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2041.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2042.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2043.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "35",
+      "name": "Lesson 35",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2044.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "36",
+      "name": "Lesson 36",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2045.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "37",
+      "name": "Lesson 37",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2046.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "38",
+      "name": "Lesson 38",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2047.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "39",
+      "name": "Lesson 39",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2048.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "40",
+      "name": "Lesson 40",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2049.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "41",
+      "name": "Lesson 41",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2050.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "42",
+      "name": "Lesson 42",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2051.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "43",
+      "name": "Lesson 43",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2052.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "44",
+      "name": "Lesson 44",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2053.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "45",
+      "name": "Lesson 45",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2054.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "46",
+      "name": "Lesson 46",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2055.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "47",
+      "name": "Lesson 47",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2056.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "48",
+      "name": "Lesson 48",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2057.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "49",
+      "name": "Lesson 49",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2058.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "50",
+      "name": "Lesson 50",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2059.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "51",
+      "name": "Lesson 51",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2060.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "52",
+      "name": "Lesson 52",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2061.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "53",
+      "name": "Lesson 53",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2062.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "54",
+      "name": "Lesson 54",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2063.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "55",
+      "name": "Lesson 55",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2064.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "56",
+      "name": "Lesson 56",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2065.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "57",
+      "name": "Lesson 57",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2066.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "58",
+      "name": "Lesson 58",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2067.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "59",
+      "name": "Lesson 59",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2068.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "60",
+      "name": "Lesson 60",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2069.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "61",
+      "name": "Lesson 61",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2070.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "62",
+      "name": "Lesson 62",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2071.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "63",
+      "name": "Lesson 63",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2072.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "64",
+      "name": "Lesson 64",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2073.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "65",
+      "name": "Lesson 65",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2074.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "66",
+      "name": "Lesson 66",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2075.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "67",
+      "name": "Lesson 67",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2076.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "68",
+      "name": "Lesson 68",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2077.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "69",
+      "name": "Lesson 69",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2078.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "70",
+      "name": "Lesson 70",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2079.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "71",
+      "name": "Lesson 71",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2080.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "72",
+      "name": "Lesson 72",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2081.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "73",
+      "name": "Lesson 73",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2082.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "74",
+      "name": "Lesson 74",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2083.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "75",
+      "name": "Lesson 75",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2084.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "76",
+      "name": "Lesson 76",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2085.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "77",
+      "name": "Lesson 77",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2086.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "78",
+      "name": "Lesson 78",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2087.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "79",
+      "name": "Lesson 79",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2088.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "80",
+      "name": "Lesson 80",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2089.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "81",
+      "name": "Lesson 81",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2090.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "82",
+      "name": "Lesson 82",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2091.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "83",
+      "name": "Lesson 83",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2092.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "84",
+      "name": "Lesson 84",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2093.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "85",
+      "name": "Lesson 85",
+      "streamURL": "https://lentil.webron.software/81/Luganda%20Basic%20Course%20-%2094.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "86",
+      "name": "Lesson 86",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%201_.mp3",
+      "imageURL": "",
+      "desc": "The Alphabet",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "87",
+      "name": "Lesson 87",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%202_.mp3",
+      "imageURL": "",
+      "desc": "Formal Greetings",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "88",
+      "name": "Lesson 88",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%203_.mp3",
+      "imageURL": "",
+      "desc": "Informal Greetings",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "89",
+      "name": "Lesson 89",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%204_.mp3",
+      "imageURL": "",
+      "desc": "Introducing Self",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "90",
+      "name": "Lesson 90",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%205_.mp3",
+      "imageURL": "",
+      "desc": "Polite Expressions and Handy Phrases",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "91",
+      "name": "Lesson 91",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%206_.mp3",
+      "imageURL": "",
+      "desc": "Ordering a Meal",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "92",
+      "name": "Lesson 92",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%207_.mp3",
+      "imageURL": "",
+      "desc": "Asking for Directions",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "93",
+      "name": "Lesson 93",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%208_.mp3",
+      "imageURL": "",
+      "desc": "Booking Accommodation",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "94",
+      "name": "Lesson 94",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%209_.mp3",
+      "imageURL": "",
+      "desc": "Apologizing and Sympathizing",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "95",
+      "name": "Lesson 95",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%2010_.mp3",
+      "imageURL": "",
+      "desc": "Useful Phrases",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "96",
+      "name": "Lesson 96",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%2011_.mp3",
+      "imageURL": "",
+      "desc": "Saying Goodbye",
+      "longDesc": "Fast - Speak Luganda"
+    },
+    {
+      "id": "97",
+      "name": "Lesson 97",
+      "streamURL": "https://lentil.webron.software/81/Luganda-%20Lesson%2012_.mp3",
+      "imageURL": "",
+      "desc": "Travel",
+      "longDesc": "Fast - Speak Luganda"
+    }
+  ]
+}

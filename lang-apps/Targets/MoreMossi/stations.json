@@ -1,0 +1,428 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18ESThq6gNksu58q0rw3DUIAMcUN5yZGr",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 01.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1nsu0XMrdKNSR96fwX7tDjvF_LV08Ef6p",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 02.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=19wjEyzx_4t5FZyhuKdQQshfYSxtDC93W",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 03.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=15TWMsgrAv1Xkn-LJZ6vzvEoxcUSFtSUx",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 04.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1J-JyyTFL5-ur6DEVPokpPv5zTcehpGHU",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 05.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1SpoK1SUInsd2nt-rFEnMyOH7a9TWxoIX",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 06.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1gCynN4ubIjsrfq41o9_Bqh9c2TYEpE_N",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 07.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1jSZDoTsV8YGk3A1jeuYJPEzTyls1iTiD",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 08.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1orDJ3R6ArX7isotWSuoMUtQaZGn92mgc",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 09.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1kYHOBLIj99g7hNQAXh-vgj3MaWMhXKEu",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 10.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1XrYmNxZESzCWbJFo2ijQgQ_F2Zc8K-pC",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 11.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1n2c1FAkQdyHnt2lNjWL5j1lPbRQdiFMJ",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 12.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1JtsKOjcFUfkwtsnIk9NjXg43pomH2lKN",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 13.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1WiG-r0zck7QxJcLxvnVBfy-7vfPid_t-",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 14.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1ErhsAE9mYTK09M9PMuxe6V9BPKeDk6L1",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 15.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1D-uJqnU7On1NsZz9z2DGtZdLzwy_LBKu",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 16.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1bBFqbgkgLFD-ImZt2Gf_cjstwXCjTwwR",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 17.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1_CMMKVcRzLSmCVtdFuweFlDN7EkDNm8w",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 18.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1TJi1v_E2_005KClOG7Tv4qQ0fyy1UKwS",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 19.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1esjMj7hXwvfcsRkUq4hxPJif7OEtyHPY",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 20.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1iUSJvCDvNg-N8DdiSAYHIIqj3-E3Lyls",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 21.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18sYohEcmxgL4YNxczCwWJwatS1X4r8bt",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 22.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1v_0nhyaviJf78OMfKuVL5Sr33jLDDvJ8",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 23.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1ZWHwJYUTo35xZ-AjNWqlbWoCdv5C43c2",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 24.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1rDG6rpIcz6zBLqmVU3TzTRAgza_h5q4z",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 25.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1psRA3tPMHwNb6p9uAcVvXkpdHb9iiaZn",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 26.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1qvNjzj7N8TToIOb8re13gipme6_3v_1h",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 27.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1edsFLH7puKG3ETp0igwQKZkfEhGXAfr3",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 28.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://drive.google.com/uc?export=download&id=184KLiS92JqnKxI7MtpUhFfWeFnRNISkB",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 29.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1suIM18g_8_ja4Go8JeQ-bYNfYUcWD8pH",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 30 Tape 1.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1CT1Sqvj5Sf7YRszvyByLHu5gG6jMmgrA",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 30 Tape 2.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18VfRwbhJU5RcQhisbxFvgHMozKPAt6oJ",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 31 Tape 1.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://drive.google.com/uc?export=download&id=10lixFvWbP4zRAu52fb1_a7N913O_59vs",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 31 Tape 2.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Tdmg2_QgX2TxrGYQD5F72Gzwe2e15T7z",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 32 Tape 1.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "35",
+      "name": "Lesson 35",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1aWe7ep2TTjlFfsdKP-sSoBFD-IYle9rj",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 32 Tape 2.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "36",
+      "name": "Lesson 36",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1qnTpTxPB520J7lCv_yfUYvgMvFxzcNFu",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 33 Tape 1.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "37",
+      "name": "Lesson 37",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1o2Ohrux1XnNoLkoALDAtU66pB2Meuiw2",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 33 Tape 2.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "38",
+      "name": "Lesson 38",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1xw6J3eoZfhQDTOdHssI15twbwbu3cG64",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 34 Tape 1.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "39",
+      "name": "Lesson 39",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1aXVUipkIkfs7hB2KBaQcxIVuEPPrG3QC",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 34 Tape 2.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "40",
+      "name": "Lesson 40",
+      "streamURL": "https://drive.google.com/uc?export=download&id=11rc1ZJiCFfHA5yOuxAs7GY0sQFUFEC4b",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 35.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "41",
+      "name": "Lesson 41",
+      "streamURL": "https://drive.google.com/uc?export=download&id=15p9msatmkXbPv5-C8ONB3nQaCpapLuHY",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 36.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "42",
+      "name": "Lesson 42",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1HfbxlSB_h-_79OYHZijt9N5ATFDeoiCH",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 37.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "43",
+      "name": "Lesson 43",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1PwN7EhQczs2zePbjpZQWDKQW0b1X0fCb",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 38.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "44",
+      "name": "Lesson 44",
+      "streamURL": "https://drive.google.com/uc?export=download&id=19NWY3AZpzAmUctZlnfl7-NebtnmltCeK",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 39.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "45",
+      "name": "Lesson 45",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1RY90PyEBCKshzedPjPYEoiOKCv1TQuSw",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 40.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "46",
+      "name": "Lesson 46",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1yGgC3wreKXX3KF9QSRImdxsRXOcC6F9N",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 41.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "47",
+      "name": "Lesson 47",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Mz-uaT2uZ7opn2j3jX0rsfXbBsmlGxo2",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 42.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "48",
+      "name": "Lesson 48",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1vlWv8ZKFolYV6xoauRa2CLCWMUrH7O6M",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 43.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "49",
+      "name": "Lesson 49",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1hDVm8Xnao4hTuBxMvC6TXtMQAlfJAnDJ",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 44.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "50",
+      "name": "Lesson 50",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1spVhJbDXFBvQw3YSTbvVfeuhFi8whm3e",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 45.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "51",
+      "name": "Lesson 51",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1kYxPo--5WSNftcRelY29vhhBOytVjFsD",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 46.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "52",
+      "name": "Lesson 52",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1IvxiE_qq5_Yb9y15W25n6KVuRRvcU3bw",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 47.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    },
+    {
+      "id": "53",
+      "name": "Lesson 53",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1mVb_ekAaQyyiGWdltB-4cS0_IeQTAgOn",
+      "imageURL": "",
+      "desc": "More Basic Course - Unit 48.mp3",
+      "longDesc": "Fast - Speak More (Mossi) Language"
+    }
+  ]
+}

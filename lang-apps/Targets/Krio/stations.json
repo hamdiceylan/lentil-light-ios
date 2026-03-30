@@ -1,0 +1,356 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Uj0njvqUpdS2gPSATXwpfDv53WAAbQHM",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=14dg5iwdoSljmjF581NpYz1JCPLLnCNuj",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1LVqmsXB3EPrOOUsVj5-vRV_lyxO18YeX",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1P5dPobJCsqc3m3sl8VA_207C0NUTLBsl",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=17JEBLcAWPOsOzX-hsxrCAMJA2e2vj6Sp",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1H3-TPnSYGD99iJ053UXUbXO_Jcv2F9XK",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1LVveROohv6kvV4Crm3NfH4_D1uXcEHfP",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=13yLQRkA4isdNImTdfqTu9ciTfw4w6etd",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1cJFacH4kEMGHu-kCsorfd1S1aFVQWrx-",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1uWV-bp1scD95h5WAZUVnklJP-_4P6bG_",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QAXPduV9F_ga7PAZ-5jY3J4JZQbvgQMI",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://drive.google.com/uc?export=download&id=10beYNR7NBK5Or6Bv8wjyM1YX-OGmPKLq",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1KVOXy8DZRbg2GcSordvtPGGgaelNf7oR",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1bSqfXMrwl09o6aaRkg4W5xN_0v1h7k1L",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1x-OtTiGnWk7TspZuIug8CBfblOF_xpAU",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1KRd-V4_fClcg4TBy4KaCVwacopnoXERE",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://drive.google.com/uc?export=download&id=183xN2638dt3LLqQFumH0lnDaSgLcqbXf",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1AsBPK-y088prCkuwguSzVKZnpgmlrb7m",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://drive.google.com/uc?export=download&id=16EWVDTNi1TI_Xv7b-ygACPSp6NVNCptx",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1snGB-aY4M0fVpvDLRtLmOB2EHutI8Kba",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1ezJMtEK0JeHIjJF6H-aiFHM8ljCvrYQ3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1IuNc4cG4K7dmUruPDcFvFynQCGz_6r7z",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1pAeHCiJr1TGDo5hTXZybOAkylZSyxkkS",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1-XrtmgLUM-xKvels8lfP-iKvmccfJ-D_",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://drive.google.com/uc?export=download&id=17znZdqKtZmqVR8MfzEd_vAuODv0Lptxx",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://drive.google.com/uc?export=download&id=12R4UOjejGtjSq8KpB7utt4JwazLwVJDJ",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1cczC8apbw19XiKO5KLIAVKv-NdovLYBD",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1OchmMXBzgekF-Csv_POamASp_fXte6rK",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1lnqJ9C2DZ_xhUuoYR4r6DPHuE0Fk9Zoy",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1muezn01ACNzgHIZBBBtbPFgzf2z_iGnt",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1xjHlBchsV3vyDt8SxF5x_zKPeccdpN6y",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1_ZIKoMTCguD7MAm-0dOyNI2d_logeDnC",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1yTHovnNmdsCkPgJCGUHgLYiK6UbRi2rY",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1oebsR-6JUFMuwS90xYYGic08CQO5iY6W",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "35",
+      "name": "Lesson 35",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1tph-d1aqqPv3AM1u2XbCMRIaKo6DpB9p",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "36",
+      "name": "Lesson 36",
+      "streamURL": "https://drive.google.com/uc?export=download&id=16KU-XjOuv3SBxTE5i0YC43yLU4hsnf8Q",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "37",
+      "name": "Lesson 37",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1BGRSM6_9maSpvhIynVxFzYh4g83_khwj",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "38",
+      "name": "Lesson 38",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1DIZfkDjBSAb6JsVuSzm95l_2jKigJmER",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "39",
+      "name": "Lesson 39",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1pAviqp6R_tsEoULF66_R-twZ77jNqCut",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "40",
+      "name": "Lesson 40",
+      "streamURL": "https://drive.google.com/uc?export=download&id=14NFCdhnvfLu2PzbKsZbaeLkm7Nwr1Jz4",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "41",
+      "name": "Lesson 41",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1SerRZErGI57lVspxmFDgza0NAJoUv-RZ",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "42",
+      "name": "Lesson 42",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1nGgBEX5DTgmXNejIM8I6n3MvqK7ODmNZ",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "43",
+      "name": "Lesson 43",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18a_X0gDQAlWq9uMMpxlJGdgRCvHTAfup",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    },
+    {
+      "id": "44",
+      "name": "Lesson 44",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1ZWkQUO6xwjDHPjTzaGDi-IkVzxLvBplt",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Krio Language"
+    }
+  ]
+}

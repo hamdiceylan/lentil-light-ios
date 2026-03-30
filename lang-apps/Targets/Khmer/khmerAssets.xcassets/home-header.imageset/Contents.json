@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "home-header.png",
+      "filename" : "home-header 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "home-header@2x.png",
+      "filename" : "home-header@2x 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "home-header@3x.png",
+      "filename" : "home-header@3x 1.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

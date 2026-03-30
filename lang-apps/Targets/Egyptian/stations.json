@@ -1,0 +1,884 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%2001-02%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%2003-04%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%2003-04%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%20Eval%2001-02.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%20Eval%2003.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Lesson%20Eval%2004.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Self%20Evaluations-%20Part%2001.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Self%20Evaluations-%20Part%2002.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2001%20Vocabulary%2001-04.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%2005-06%20Side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "11",
+      "name": "Lesson 11",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%2005-06%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "12",
+      "name": "Lesson 12",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%2007-08%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "13",
+      "name": "Lesson 13",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%2007-08%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "14",
+      "name": "Lesson 14",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%20Eval%2005.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "15",
+      "name": "Lesson 15",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%20Eval%2006.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "16",
+      "name": "Lesson 16",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%20Eval%2007.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "17",
+      "name": "Lesson 17",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Lesson%20Eval%2008.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "18",
+      "name": "Lesson 18",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "19",
+      "name": "Lesson 19",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "20",
+      "name": "Lesson 20",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2002%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "21",
+      "name": "Lesson 21",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2009%20Side%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "22",
+      "name": "Lesson 22",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2009%20Side%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "23",
+      "name": "Lesson 23",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2010%20side%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "24",
+      "name": "Lesson 24",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2011%20side%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "25",
+      "name": "Lesson 25",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2011%20side%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "26",
+      "name": "Lesson 26",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2012%20side%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "27",
+      "name": "Lesson 27",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%2012%20Side%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "28",
+      "name": "Lesson 28",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%20Eval%2009.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "29",
+      "name": "Lesson 29",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%20Eval%2010.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "30",
+      "name": "Lesson 30",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%20Eval%2011-12.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "31",
+      "name": "Lesson 31",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Lesson%20Eval%2012.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "32",
+      "name": "Lesson 32",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Self%20Evaluation.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "33",
+      "name": "Lesson 33",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2003%20Vocab%20Lesson%209-12.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "34",
+      "name": "Lesson 34",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Lesson%2013%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "35",
+      "name": "Lesson 35",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Lesson%2013%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "36",
+      "name": "Lesson 36",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Lesson%2015%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "37",
+      "name": "Lesson 37",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Lesson%2015%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "38",
+      "name": "Lesson 38",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Lesson%2016%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "39",
+      "name": "Lesson 39",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Self%20Evaluation.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "40",
+      "name": "Lesson 40",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2004%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "41",
+      "name": "Lesson 41",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%2017-18%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "42",
+      "name": "Lesson 42",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%2017-18%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "43",
+      "name": "Lesson 43",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%2019-20%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "44",
+      "name": "Lesson 44",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%2019-20%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "45",
+      "name": "Lesson 45",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%20Evaluation%2019.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "46",
+      "name": "Lesson 46",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2005%20Lesson%20Evaluation%2020.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "47",
+      "name": "Lesson 47",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2006%20Lesson%20Evaluation%2021.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "48",
+      "name": "Lesson 48",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2006%20Lesson%20Evaluation%2022.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "49",
+      "name": "Lesson 49",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2006%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "50",
+      "name": "Lesson 50",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2006%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "51",
+      "name": "Lesson 51",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2006%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "52",
+      "name": "Lesson 52",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%2025-26%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "53",
+      "name": "Lesson 53",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%2025-26%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "54",
+      "name": "Lesson 54",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%2027-28%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "55",
+      "name": "Lesson 55",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%2027-28%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "56",
+      "name": "Lesson 56",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%20Evaluation%2025.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "57",
+      "name": "Lesson 57",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%20Evaluation%2026.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "58",
+      "name": "Lesson 58",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%20Evaluation%2027.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "59",
+      "name": "Lesson 59",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Lesson%20Evaluation%2028.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "60",
+      "name": "Lesson 60",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "61",
+      "name": "Lesson 61",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "62",
+      "name": "Lesson 62",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2007%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "63",
+      "name": "Lesson 63",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%2029-30%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "64",
+      "name": "Lesson 64",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%2029-30%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "65",
+      "name": "Lesson 65",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%2031-32%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "66",
+      "name": "Lesson 66",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%2031-32%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "67",
+      "name": "Lesson 67",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%20Evaluation%2029.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "68",
+      "name": "Lesson 68",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%20Evaluation%2030.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "69",
+      "name": "Lesson 69",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%20Evaluation%2031.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "70",
+      "name": "Lesson 70",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Lesson%20Evaluation%2032.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "71",
+      "name": "Lesson 71",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "72",
+      "name": "Lesson 72",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "73",
+      "name": "Lesson 73",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2008%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "74",
+      "name": "Lesson 74",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%2033-34%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "75",
+      "name": "Lesson 75",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%2033-34%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "76",
+      "name": "Lesson 76",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%2035-36%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "77",
+      "name": "Lesson 77",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%2035-36%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "78",
+      "name": "Lesson 78",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%20Evaluation%2033.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "79",
+      "name": "Lesson 79",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%20Evaluation%2034.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "80",
+      "name": "Lesson 80",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%20Evaluation%2035.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "81",
+      "name": "Lesson 81",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Lesson%20Evaluation%2036.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "82",
+      "name": "Lesson 82",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "83",
+      "name": "Lesson 83",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "84",
+      "name": "Lesson 84",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2009%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "85",
+      "name": "Lesson 85",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%2037-38%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "86",
+      "name": "Lesson 86",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%2037-38%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "87",
+      "name": "Lesson 87",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%2039-40%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "88",
+      "name": "Lesson 88",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%2039-40%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "89",
+      "name": "Lesson 89",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%20Evaluation%2037.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "90",
+      "name": "Lesson 90",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%20Evaluation%2038.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "91",
+      "name": "Lesson 91",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%20Evaluation%2039.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "92",
+      "name": "Lesson 92",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Lesson%20Evaluation%2040.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "93",
+      "name": "Lesson 93",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "94",
+      "name": "Lesson 94",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "95",
+      "name": "Lesson 95",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2010%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "96",
+      "name": "Lesson 96",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Lesson%2041-42%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "97",
+      "name": "Lesson 97",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Lesson%2043-44%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "98",
+      "name": "Lesson 98",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Lesson%2043-44%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "99",
+      "name": "Lesson 99",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Lesson%20Evaluation%2041.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "100",
+      "name": "Lesson 100",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "101",
+      "name": "Lesson 101",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Self%20Evaluation%20Part%203.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "102",
+      "name": "Lesson 102",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2011%20Vocabulary%20Lesson.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "103",
+      "name": "Lesson 103",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Lesson%2045-46%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "104",
+      "name": "Lesson 104",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Lesson%2045-46%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "105",
+      "name": "Lesson 105",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Lesson%2047-48%20side%20a.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "106",
+      "name": "Lesson 106",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Lesson%2047-48%20side%20b.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "107",
+      "name": "Lesson 107",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Lesson%20Evaluation.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "108",
+      "name": "Lesson 108",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Self%20Evaluation%20Part%201.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "109",
+      "name": "Lesson 109",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Self%20Evaluation%20Part%202.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    },
+    {
+      "id": "110",
+      "name": "Lesson 110",
+      "streamURL": "https://lentil.webron.software/64/Egyptian%20Arabic%20-%20Module%2012%20Vocabulary%2045-48.mp3",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Arabic Egyptian Language"
+    }
+  ]
+}

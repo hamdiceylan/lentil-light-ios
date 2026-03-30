@@ -1,0 +1,84 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Xl1irTo_zkBh_PMALPRq0oDWwQa9z-Kk",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1aL_nYe-Lk6BK05B0FOJ34IsIoAjLQRaF",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QFSngKTHAwmRXFzKvtutV65xJAguwoK_",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1RlaLCCAU1qCibYd1ZRR9HjW3J9G-Ko8g",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1GFgjwLtpKAt8bru0Cg_sl3ZWdPbWNLtq",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1uLUl7UcDKcePIuPv_ClnmWS0W8Pdv0Zr",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1sImrDZvzssfe-NrALx1V9ymq3dYsOYuJ",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1QscmTDvpzXCSLXDGW73fmaljFiJt5O_a",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1r2omhwmc6ffSjTJ3rU8wgsLy48QaRcJH",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1HqmYvr7gp616aQqjGa463o9L0ps8xktf",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Mauritanian Language"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "station": [
+    {
+      "id": "1",
+      "name": "Lesson 1",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1drwu2D3Q66Yrjd6KFT_q_LYNxYcymURM",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "2",
+      "name": "Lesson 2",
+      "streamURL": "https://drive.google.com/uc?export=download&id=18mFxRByZfpIXCwe-GfL0i93sQZkBUNIV",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "3",
+      "name": "Lesson 3",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1YkBojptItSX3v8tDT_5tzixWGS9FkaWF",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "4",
+      "name": "Lesson 4",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1MUpfjOtzZj6mX2m_e2TLIobcEHAJBlfa",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "5",
+      "name": "Lesson 5",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1Hq1H4_ZkGBr7kWCLWJ6l7FP3-xznpqVE",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "6",
+      "name": "Lesson 6",
+      "streamURL": "https://drive.google.com/uc?export=download&id=13Fy0KJz1R0VDJkA-xO0xJ5Xu405qUjBt",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "7",
+      "name": "Lesson 7",
+      "streamURL": "https://drive.google.com/uc?export=download&id=103KZHmVGAaB7M6EM7tiEa96GwVMdKCEX",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "8",
+      "name": "Lesson 8",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1q-kn_9pA9ZE0l32fy2-JFjufuDpOD2bv",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "9",
+      "name": "Lesson 9",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1epNo9Z-0tMfQBVnFqM9thXK63qDo3UAI",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    },
+    {
+      "id": "10",
+      "name": "Lesson 10",
+      "streamURL": "https://drive.google.com/uc?export=download&id=1P38i8P9EC8K9ByqphxM3nWZNu8qard-y",
+      "imageURL": "",
+      "desc": "",
+      "longDesc": "Fast - Speak Jordanian Language"
+    }
+  ]
+}

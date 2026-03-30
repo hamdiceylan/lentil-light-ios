@@ -14,7 +14,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        Purchases.configure(withAPIKey: TargetManager.current.revCatApi)
+        let key = TargetManager.current.revCatApi
+        Purchases.configure(withAPIKey: key)
         
         UserManager.shared.checkSubscriptionStatus()
 //        AdMobManager.shared.start()
