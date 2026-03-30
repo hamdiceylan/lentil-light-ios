@@ -42,7 +42,7 @@ enum TargetManager {
                 theme: .theme6,
                 lessonsNavigationTitle: "Learn Azerbaijani",
                 remotePhrasebook: "https://lentil.webron.software/partials/57/azerbaijani_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_GHjOuIwXsrTXRGGQkwDahVnSkHN",
                 weekly: "azerbaijani_weekly",
                 yearly: "azerbaijani_yearly",
                 lifetime: "azerbaijani_lifetime"
@@ -53,7 +53,7 @@ enum TargetManager {
                 theme: .theme26,
                 lessonsNavigationTitle: "Learn Bambara",
                 remotePhrasebook: "https://lentil.webron.software/partials/58/bambara_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_QrFqVGHhnrpJeduzRRvmqdJIocn",
                 weekly: "bambara_weekly",
                 yearly: "bambara_yearly",
                 lifetime: "bambara_lifetime"
@@ -64,7 +64,7 @@ enum TargetManager {
                 theme: .theme3,
                 lessonsNavigationTitle: "Learn Bislama",
                 remotePhrasebook: "https://lentil.webron.software/partials/59/bislama_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_NlBqRkMwKqPvDmMjbDPgZsYxvcM",
                 weekly: "bislama_weekly",
                 yearly: "bislama_yearly",
                 lifetime: "bislama_lifetime"
@@ -75,7 +75,7 @@ enum TargetManager {
                 theme: .theme19,
                 lessonsNavigationTitle: "Learn Cameroon",
                 remotePhrasebook: "https://lentil.webron.software/partials/60/cameroon_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_jDnLjTzwomHLtWnPbbzRwQQpZpB",
                 weekly: "cameroon_weekly",
                 yearly: "cameroon_yearly",
                 lifetime: "cameroon_lifetime"
@@ -86,7 +86,7 @@ enum TargetManager {
                 theme: .theme3,
                 lessonsNavigationTitle: "Learn Chewa",
                 remotePhrasebook: "https://lentil.webron.software/partials/61/chewa_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_rFpERjeVkIAwPuGDXuGOjNJComX",
                 weekly: "chewa_weekly",
                 yearly: "chewa_yearly",
                 lifetime: "chewa_lifetime"
@@ -97,7 +97,7 @@ enum TargetManager {
                 theme: .theme13,
                 lessonsNavigationTitle: "Learn Chinyanja",
                 remotePhrasebook: "https://lentil.webron.software/partials/63/chinyanja_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_LudmgtojhfVEaFVJXtAqMtrkHYM",
                 weekly: "chinyanja_weekly",
                 yearly: "chinyanja_yearly",
                 lifetime: "chinyanja_lifetime"
@@ -108,7 +108,7 @@ enum TargetManager {
                 theme: .theme20,
                 lessonsNavigationTitle: "Learn Egyptian Arabic",
                 remotePhrasebook: "https://lentil.webron.software/partials/64/egyptian_arabic_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_azbNjuWucNukEfSCXHFDgkBiPlK",
                 weekly: "egyptian_arabic_weekly",
                 yearly: "egyptian_arabic_yearly",
                 lifetime: "egyptian_arabic_lifetime"
@@ -119,7 +119,7 @@ enum TargetManager {
                 theme: .theme11,
                 lessonsNavigationTitle: "Learn Ewe",
                 remotePhrasebook: "https://lentil.webron.software/partials/65/ewe_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_FQiFdlDcERIFsQgGygXIMDWauTV",
                 weekly: "ewe_weekly",
                 yearly: "ewe_yearly",
                 lifetime: "ewe_lifetime"
@@ -130,7 +130,7 @@ enum TargetManager {
                 theme: .theme19,
                 lessonsNavigationTitle: "Learn Fula",
                 remotePhrasebook: "https://lentil.webron.software/partials/67/fula_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_kiLYNAZReGuoYuZqZbpPunlvXvZ",
                 weekly: "fula_weekly",
                 yearly: "fula_yearly",
                 lifetime: "fula_lifetime"
@@ -141,7 +141,7 @@ enum TargetManager {
                 theme: .theme7,
                 lessonsNavigationTitle: "Learn Hausa",
                 remotePhrasebook: "https://lentil.webron.software/partials/68/hausa_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_UkuyshKIuVGjXXNXuzLbiWAkbXr",
                 weekly: "hausa_weekly",
                 yearly: "hausa_yearly",
                 lifetime: "hausa_lifetime"
@@ -152,7 +152,7 @@ enum TargetManager {
                 theme: .theme26,
                 lessonsNavigationTitle: "Learn Hijazi Dialect",
                 remotePhrasebook: "https://lentil.webron.software/partials/69/hijazi_dialect_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_JtWGYxabzVerUNiyPpvXRMqGRmQ",
                 weekly: "hijazi_dialect_weekly",
                 yearly: "hijazi_dialect_yearly",
                 lifetime: "hijazi_dialect_lifetime"
@@ -163,7 +163,7 @@ enum TargetManager {
                 theme: .theme16,
                 lessonsNavigationTitle: "Learn Igbo",
                 remotePhrasebook: "https://lentil.webron.software/partials/70/igbo_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_JNHWGJaJNVuFHTeoKDQCpAoEERE",
                 weekly: "igbo_weekly",
                 yearly: "igbo_yearly",
                 lifetime: "igbo_lifetime"
@@ -174,7 +174,7 @@ enum TargetManager {
                 theme: .theme23,
                 lessonsNavigationTitle: "Learn Iraqi",
                 remotePhrasebook: "https://lentil.webron.software/partials/71/iraqi_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_svZAkdgtpMQxJXmJUBdPQmBokHj",
                 weekly: "iraqi_weekly",
                 yearly: "iraqi_yearly",
                 lifetime: "iraqi_lifetime"
@@ -185,7 +185,7 @@ enum TargetManager {
                 theme: .theme2,
                 lessonsNavigationTitle: "Learn Jahanka",
                 remotePhrasebook: "https://lentil.webron.software/partials/72/jahanka_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_GomVPgqGRGwEjkwzIznEgSCBhaG",
                 weekly: "jahanka_weekly",
                 yearly: "jahanka_yearly",
                 lifetime: "jahanka_lifetime"
@@ -196,7 +196,7 @@ enum TargetManager {
                 theme: .theme24,
                 lessonsNavigationTitle: "Learn Jola",
                 remotePhrasebook: "https://lentil.webron.software/partials/73/jola_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_ysgrYldLKbRkQSKrBoVMYXUgCok",
                 weekly: "jola_weekly",
                 yearly: "jola_yearly",
                 lifetime: "jola_lifetime"
@@ -207,7 +207,7 @@ enum TargetManager {
                 theme: .theme2,
                 lessonsNavigationTitle: "Learn Jordanian",
                 remotePhrasebook: "https://lentil.webron.software/partials/74/jordanian_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_QvCtshSsgUgWOVUMDwTazojyFMR",
                 weekly: "jordanian_weekly",
                 yearly: "jordanian_yearly",
                 lifetime: "jordanian_lifetime"
@@ -218,7 +218,7 @@ enum TargetManager {
                 theme: .theme21,
                 lessonsNavigationTitle: "Learn Kirundi",
                 remotePhrasebook: "https://lentil.webron.software/partials/75/kirundi_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_rCYiXigGKdvVUCbQKrWOEtUJlBP",
                 weekly: "kirundi_weekly",
                 yearly: "kirundi_yearly",
                 lifetime: "kirundi_lifetime"
@@ -229,7 +229,7 @@ enum TargetManager {
                 theme: .theme14,
                 lessonsNavigationTitle: "Learn Kituba",
                 remotePhrasebook: "https://lentil.webron.software/partials/76/kituba_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_QIisUtLDmXPuKAcZCkXHaSmzgaB",
                 weekly: "kituba_weekly",
                 yearly: "kituba_yearly",
                 lifetime: "kituba_lifetime"
@@ -240,7 +240,7 @@ enum TargetManager {
                 theme: .theme2,
                 lessonsNavigationTitle: "Learn Krio",
                 remotePhrasebook: "https://lentil.webron.software/partials/77/krio_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_uOhOEUAIMEzotitMXQnNjxxIrMT",
                 weekly: "krio_weekly",
                 yearly: "krio_yearly",
                 lifetime: "krio_lifetime"
@@ -251,7 +251,7 @@ enum TargetManager {
                 theme: .theme8,
                 lessonsNavigationTitle: "Learn Lao",
                 remotePhrasebook: "https://lentil.webron.software/partials/78/lao_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_uyXWqsfbdsUfmRBDfDXAXSismMf",
                 weekly: "lao_weekly",
                 yearly: "lao_yearly",
                 lifetime: "lao_lifetime"
@@ -262,7 +262,7 @@ enum TargetManager {
                 theme: .theme16,
                 lessonsNavigationTitle: "Learn Levantine",
                 remotePhrasebook: "https://lentil.webron.software/partials/79/levantine_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_AzPNLuTIUWhCxUkWZEusvpiJEcA",
                 weekly: "levantine_weekly",
                 yearly: "levantine_yearly",
                 lifetime: "levantine_lifetime"
@@ -273,7 +273,7 @@ enum TargetManager {
                 theme: .theme10,
                 lessonsNavigationTitle: "Learn Lingala",
                 remotePhrasebook: "https://lentil.webron.software/partials/80/lingala_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_yCFJHsZazbElXfqYtRhIGDsvrgA",
                 weekly: "lingala_weekly",
                 yearly: "lingala_yearly",
                 lifetime: "lingala_lifetime"
@@ -284,7 +284,7 @@ enum TargetManager {
                 theme: .theme3,
                 lessonsNavigationTitle: "Learn Luganda",
                 remotePhrasebook: "https://lentil.webron.software/partials/81/luganda_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_fFrlGZyQFcKSJCQOHMpRSFNpKOc",
                 weekly: "luganda_weekly",
                 yearly: "luganda_yearly",
                 lifetime: "luganda_lifetime"
@@ -295,7 +295,7 @@ enum TargetManager {
                 theme: .theme5,
                 lessonsNavigationTitle: "Learn Madinka",
                 remotePhrasebook: "https://lentil.webron.software/partials/82/madinka_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_ZNIKmAyQytERmrxUWyqfvotMqLe",
                 weekly: "madinka_weekly",
                 yearly: "madinka_yearly",
                 lifetime: "madinka_lifetime"
@@ -306,7 +306,7 @@ enum TargetManager {
                 theme: .theme16,
                 lessonsNavigationTitle: "Learn Malagasy",
                 remotePhrasebook: "https://lentil.webron.software/partials/83/malagasy_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_JxPiixwGeesiYSIbeBoPkPeEjOe",
                 weekly: "malagasy_weekly",
                 yearly: "malagasy_yearly",
                 lifetime: "malagasy_lifetime"
@@ -317,7 +317,7 @@ enum TargetManager {
                 theme: .theme14,
                 lessonsNavigationTitle: "Learn French Mali",
                 remotePhrasebook: "https://lentil.webron.software/partials/66/french_mali_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_KWwsfFiQQjdZdKooKQELdwZNuya",
                 weekly: "french_mali_weekly",
                 yearly: "french_mali_yearly",
                 lifetime: "french_mali_lifetime"
@@ -328,7 +328,7 @@ enum TargetManager {
                 theme: .theme13,
                 lessonsNavigationTitle: "Learn Mauritanian",
                 remotePhrasebook: "https://lentil.webron.software/partials/84/mauritanian_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_PHtDxLApTHjedFqkNZbBCvIafFY",
                 weekly: "mauritanian_weekly",
                 yearly: "mauritanian_yearly",
                 lifetime: "mauritanian_lifetime"
@@ -339,7 +339,7 @@ enum TargetManager {
                 theme: .theme4,
                 lessonsNavigationTitle: "Learn Moldovan",
                 remotePhrasebook: "https://lentil.webron.software/partials/85/moldovan_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_rlHYuAFmxQAknBEWQpGhIWmMEny",
                 weekly: "moldovan_weekly",
                 yearly: "moldovan_yearly",
                 lifetime: "moldovan_lifetime"
@@ -350,7 +350,7 @@ enum TargetManager {
                 theme: .theme23,
                 lessonsNavigationTitle: "Learn Mongolian",
                 remotePhrasebook: "https://lentil.webron.software/partials/86/mongolian_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_QGfjfZNUAWIMTxOyCburGUxJlOO",
                 weekly: "mongolian_weekly",
                 yearly: "mongolian_yearly",
                 lifetime: "mongolian_lifetime"
@@ -361,7 +361,7 @@ enum TargetManager {
                 theme: .theme17,
                 lessonsNavigationTitle: "Learn Moore",
                 remotePhrasebook: "https://lentil.webron.software/partials/87/moore_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_AaHwRFTtpmNLBTwCoiBUnCIejFY",
                 weekly: "moore_weekly",
                 yearly: "moore_yearly",
                 lifetime: "moore_lifetime"
@@ -372,7 +372,7 @@ enum TargetManager {
                 theme: .theme8,
                 lessonsNavigationTitle: "Learn More (Mossi)",
                 remotePhrasebook: "https://lentil.webron.software/partials/89/more_mossi_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_cVyLRzRRSGHBbCuxJUNnoQucERB",
                 weekly: "more_mossi_weekly",
                 yearly: "more_mossi_yearly",
                 lifetime: "more_mossi_lifetime"
@@ -383,7 +383,7 @@ enum TargetManager {
                 theme: .theme13,
                 lessonsNavigationTitle: "Learn Moroccan",
                 remotePhrasebook: "https://lentil.webron.software/partials/88/moroccan_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_qsfiYKPjGWaVkiNOjCbKgDWlcHw",
                 weekly: "moroccan_weekly",
                 yearly: "moroccan_yearly",
                 lifetime: "moroccan_lifetime"
@@ -394,7 +394,7 @@ enum TargetManager {
                 theme: .theme18,
                 lessonsNavigationTitle: "Learn Nepali",
                 remotePhrasebook: "https://lentil.webron.software/partials/90/nepali_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_XGKUERBaFOGJkNtxYLLNsKBFbZY",
                 weekly: "nepali_weekly",
                 yearly: "nepali_yearly",
                 lifetime: "nepali_lifetime"
@@ -405,7 +405,7 @@ enum TargetManager {
                 theme: .theme23,
                 lessonsNavigationTitle: "Learn Pulaar",
                 remotePhrasebook: "https://lentil.webron.software/partials/91/pulaar_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_dQojybwtUJguKYtJCeQPmDZmTPi",
                 weekly: "pulaar_weekly",
                 yearly: "pulaar_yearly",
                 lifetime: "pulaar_lifetime"
@@ -416,7 +416,7 @@ enum TargetManager {
                 theme: .theme20,
                 lessonsNavigationTitle: "Learn Samoan",
                 remotePhrasebook: "https://lentil.webron.software/partials/92/samoan_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_gbeGlwQAXGHlqhMhEEUGGzhHVkj",
                 weekly: "samoan_weekly",
                 yearly: "samoan_yearly",
                 lifetime: "samoan_lifetime"
@@ -427,7 +427,7 @@ enum TargetManager {
                 theme: .theme19,
                 lessonsNavigationTitle: "Learn Sarahulle",
                 remotePhrasebook: "https://lentil.webron.software/partials/93/sarahulle_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_cslfzrQesjRnYOhCmiKuKdoYKDk",
                 weekly: "sarahulle_weekly",
                 yearly: "sarahulle_yearly",
                 lifetime: "sarahulle_lifetime"
@@ -438,7 +438,7 @@ enum TargetManager {
                 theme: .theme4,
                 lessonsNavigationTitle: "Learn Setswana",
                 remotePhrasebook: "https://lentil.webron.software/partials/94/setswana_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_KxlswJITaXpiyGaYgQuSdWkiPMc",
                 weekly: "setswana_weekly",
                 yearly: "setswana_yearly",
                 lifetime: "setswana_lifetime"
@@ -449,7 +449,7 @@ enum TargetManager {
                 theme: .theme10,
                 lessonsNavigationTitle: "Learn Shona",
                 remotePhrasebook: "https://lentil.webron.software/partials/95/shona_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_MXXvJiwqaNCHXsHpCcswgBCtbZH",
                 weekly: "shona_weekly",
                 yearly: "shona_yearly",
                 lifetime: "shona_lifetime"
@@ -460,7 +460,7 @@ enum TargetManager {
                 theme: .theme18,
                 lessonsNavigationTitle: "Learn Soninke",
                 remotePhrasebook: "https://lentil.webron.software/partials/96/soninke_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_xtZwIzeEehgaodSPSqfJUOLZXHE",
                 weekly: "soninke_weekly",
                 yearly: "soninke_yearly",
                 lifetime: "soninke_lifetime"
@@ -471,7 +471,7 @@ enum TargetManager {
                 theme: .theme4,
                 lessonsNavigationTitle: "Learn Sranan",
                 remotePhrasebook: "https://lentil.webron.software/partials/97/sranan_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_NisFJuwSgltwIuabVjdkaApcahf",
                 weekly: "sranan_weekly",
                 yearly: "sranan_yearly",
                 lifetime: "sranan_lifetime"
@@ -482,7 +482,7 @@ enum TargetManager {
                 theme: .theme6,
                 lessonsNavigationTitle: "Learn Syrian",
                 remotePhrasebook: "https://lentil.webron.software/partials/98/syrian_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_otaHmeUKVJxSUrtuwyJbrSPEmZu",
                 weekly: "syrian_weekly",
                 yearly: "syrian_yearly",
                 lifetime: "syrian_lifetime"
@@ -493,7 +493,7 @@ enum TargetManager {
                 theme: .theme5,
                 lessonsNavigationTitle: "Learn Twi",
                 remotePhrasebook: "https://lentil.webron.software/partials/99/twi_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_YmbyWKDhTtidufcbNFjFfQGTVpL",
                 weekly: "twi_weekly",
                 yearly: "twi_yearly",
                 lifetime: "twi_lifetime"
@@ -504,7 +504,7 @@ enum TargetManager {
                 theme: .theme16,
                 lessonsNavigationTitle: "Learn Wolof",
                 remotePhrasebook: "https://lentil.webron.software/partials/100/wolof_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_wclxErdoJfWYdzTVCDHOaenvheL",
                 weekly: "wolof_weekly",
                 yearly: "wolof_yearly",
                 lifetime: "wolof_lifetime"
@@ -515,7 +515,7 @@ enum TargetManager {
                 theme: .theme11,
                 lessonsNavigationTitle: "Learn Yoruba",
                 remotePhrasebook: "https://lentil.webron.software/partials/101/yoruba_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_KRkGQdPZKGNVORnHOIZqyqTsPDV",
                 weekly: "yoruba_weekly",
                 yearly: "yoruba_yearly",
                 lifetime: "yoruba_lifetime"
@@ -526,7 +526,7 @@ enum TargetManager {
                 theme: .theme11,
                 lessonsNavigationTitle: "Learn Zarma",
                 remotePhrasebook: "https://lentil.webron.software/partials/102/zarma_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_YCEALKfBGwRdhUzudcPhscyDEST",
                 weekly: "zarma_weekly",
                 yearly: "zarma_yearly",
                 lifetime: "zarma_lifetime"
@@ -559,7 +559,7 @@ enum TargetManager {
                 theme: .theme11,
                 lessonsNavigationTitle: "Learn Chinese",
                 remotePhrasebook: "https://lentil.webron.software/partials/62/chinese_phrasebook.json",
-                revCatApi: "",
+                revCatApi: "appl_AcbIwjCQCEeAnfGoVfIKyNquRZn",
                 weekly: "chinese_weekly",
                 yearly: "chinese_yearly",
                 lifetime: "chinese_lifetime"
