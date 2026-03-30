@@ -110,7 +110,7 @@ enum TargetManager {
                 remotePhrasebook: "https://lentil.webron.software/partials/64/egyptian_arabic_phrasebook.json",
                 revCatApi: "appl_azbNjuWucNukEfSCXHFDgkBiPlK",
                 weekly: "egyptian_arabic_weekly",
-                yearly: "egyptian_arabic_yearly",
+                yearly: "egyptian_arabic_yearly2",
                 lifetime: "egyptian_arabic_lifetime"
             )
         case "com.diponten.ewe":
