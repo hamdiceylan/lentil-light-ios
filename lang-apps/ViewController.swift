@@ -326,7 +326,7 @@ private final class TopicCell: UICollectionViewCell {
 
             labelsStackView.leadingAnchor.constraint(equalTo: iconView.trailingAnchor, constant: 12),
             labelsStackView.centerYAnchor.constraint(equalTo: cardView.centerYAnchor),
-            labelsStackView.trailingAnchor.constraint(lessThanOrEqualTo: chevronView.leadingAnchor, constant: -12),
+            labelsStackView.trailingAnchor.constraint(lessThanOrEqualTo: chevronView.leadingAnchor, constant: -40),
             subtitleLabel.heightAnchor.constraint(equalToConstant: 24),
 
             chevronView.trailingAnchor.constraint(equalTo: cardView.trailingAnchor, constant: -18),
